@@ -1,0 +1,38 @@
+[
+  {
+    "description": "A captivating tale of wealth and ambition",
+    "id": "7567ec4b-b10c-48c5-9345-fc73c48a80aa",
+    "price": 12.99,
+    "title": "The Great Gatsby"
+  },
+  {
+    "description": "A timeless classic exploring themes of justice and morality",
+    "id": "7567ec4b-b10c-48c5-9345-fc73c48a80ab",
+    "price": 9.99,
+    "title": "To Kill a Mockingbird"
+  },
+  {
+    "description": "A story of love, family, and societal expectations",
+    "id": "7567ec4b-b10c-48c5-9345-fc73c48a80ac",
+    "price": 7.99,
+    "title": "Pride and Prejudice"
+  },
+  {
+    "description": "A dystopian novel depicting a totalitarian regime",
+    "id": "7567ec4b-b10c-48c5-9345-fc73c48a80ad",
+    "price": 10.99,
+    "title": "1984"
+  },
+  {
+    "description": "A coming-of-age story of teenage rebellion",
+    "id": "7567ec4b-b10c-48c5-9345-fc73c48a80ae",
+    "price": 8.99,
+    "title": "The Catcher in the Rye"
+  },
+  {
+    "description": "A satirical allegory about political corruption",
+    "id": "7567ec4b-b10c-48c5-9345-fc73c48a80af",
+    "price": 6.99,
+    "title": "Animal Farm"
+  }
+]
